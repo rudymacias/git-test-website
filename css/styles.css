@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+}
+nav {
+	width: auto;
+	background-color: #ccc;
+	padding: 15px;
+}
+header {
+	text-align: center;
+	background-color: #000;
+	color: #fff;
+	padding: 60px;
+}
+header h1 {
+	margin: 0;
+}
+section {
+	padding: 80px;
+}
+section.section-content-b {
+	padding: 80px;
+	background-color: #990;
+	color: #fff;
+}
+footer {
+	width: auto;
+	background-color: #ccc;
+	padding: 15px;
+	text-align: center;
+}

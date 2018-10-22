@@ -6,6 +6,9 @@ nav {
 	background-color: #ccc;
 	padding: 15px;
 }
+nav ul {
+	list-style: none;
+}
 header {
 	text-align: center;
 	background-color: #000;
